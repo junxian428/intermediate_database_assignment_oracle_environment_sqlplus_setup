@@ -22,3 +22,5 @@ sudo alien -i oracle-instantclient-basic-23.8.0.25.04-1.el9.x86_64.rpm
 sqlplus system/123//localhost:1521/XEPDB1
 
 ![image](https://github.com/user-attachments/assets/c6dd91da-74a3-44ff-a0c0-a509a89ff96f)
+
+![image](https://github.com/user-attachments/assets/b14d2205-a5a2-403d-bf70-5458b761acce)
